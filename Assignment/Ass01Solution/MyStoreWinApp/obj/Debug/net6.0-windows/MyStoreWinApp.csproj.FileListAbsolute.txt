@@ -1,0 +1,35 @@
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmLogin.resources
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberDetails.resources
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.frmMemberManagement.resources
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.exe
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.deps.json
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.runtimeconfig.json
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Business Object.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAcess.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\Business Object.pdb
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\DataAcess.pdb
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\refint\MyStoreWinApp.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.pdb
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Code\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\ref\MyStoreWinApp.dll

@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\bin\Debug\net6.0\Business Object.deps.json
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\bin\Debug\net6.0\Business Object.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\bin\Debug\net6.0\Business Object.pdb
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\obj\Debug\net6.0\Business Object.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\obj\Debug\net6.0\Business Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\obj\Debug\net6.0\Business Object.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\obj\Debug\net6.0\Business Object.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\obj\Debug\net6.0\Business Object.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\obj\Debug\net6.0\Business Object.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\obj\Debug\net6.0\refint\Business Object.dll
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\obj\Debug\net6.0\Business Object.pdb
+C:\Users\ASUS\Desktop\Code\Ass01Solution\Business Object\obj\Debug\net6.0\ref\Business Object.dll
